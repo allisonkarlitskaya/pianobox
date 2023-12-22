@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<properties>
+  <value name="audio-setup">
+    <devicesetup deviceType="JACK" audioOutputDeviceName="Auto-connect ON"/>
+  </value>
+  <value name="midi-setup">
+    <midi-setup listen-all="1"/>
+  </value>
+</properties>
